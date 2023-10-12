@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  🚀✍️ Super Creative Write-a-Thon'20 Contest! 🌟📖
+#  ✍️ Write-a-Thon'20: 🚀 Super Creative Contest! 📖
 
 </div>
 <p align="center">
