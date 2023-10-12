@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  ✍️ Write-a-Thon'20: 🚀 Super Creative Contest! 📖
+#  ✍️ Write-a-Thon'20: 🚀 Creative Contest! 📖
 
 </div>
 <p align="center">
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## ✨ Hall Of Fame
+### ✨ Hall Of Fame
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
