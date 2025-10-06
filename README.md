@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  ✍️ Write-a-Thon'20: 🚀 Creative Contest! 
+#  ✍️ Write-a-Thon'20: 🚀 Creative Contest!..
 
 </div>
 <p align="center">
